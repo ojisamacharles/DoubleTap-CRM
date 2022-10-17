@@ -1,1 +1,1 @@
-Chris was responsible for the How it works page
+Chris was responsible for the How it works page. My main issues were with formatting the containers and centering the text. Although it is generally discouraged, as a last-resort I used the <center></center> HTML command to center my texts. Another issue was with the containers being too small. Finally, the footer was not properly spaced to match the entire screen. I tried a position: absolute; .css line, but this ended up freezing the footer in place.
